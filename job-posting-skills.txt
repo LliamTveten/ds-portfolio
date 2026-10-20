@@ -1,0 +1,27 @@
+Senior Data Scientist
+Required Skills:
+- Bachelors, M.S, or PHD in a quantitative field or related work experience
+- 5+ years of professional experience, startup experience
+- Proficiency in machine learning and experimentation 
+- Proficiency with python
+- Passion for solving unconstructed and nonstandard mathematical problems
+- End to end experience with data
+- Strong oral and written communication skills
+
+Data Scientist, Product Analyitics
+Senior level
+Required Skills:
+- Bachelors in Computer Science, Computer Engineering, or relevant field
+- Experience with data querying languages, scripting languages, and/or statistical software
+Preferred Skills:
+- Masters or PHD in quantitative field
+- Ability to integrate AI tools
+- Experience adhering to and implementing responsible, ethical, AI practices
+- Demonstrate ongoing AI skill development
+
+Skills in both postings:
+- Bachelors of science required
+- Python proficiency
+- Teamwork
+
+Some things that stood out to me was that the product analytics job is much more AI influenced and welcomed in the job. Another thing that stood out to me was that having just a bachelors was okay and that they'd prefer experience over schooling.
